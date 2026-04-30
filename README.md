@@ -46,9 +46,9 @@ An implementation of the **Reflection Design Pattern** for Agentic AI. This proj
 
 ---
 
-##  API Usage
+#  How to run
 
-### Endpoint
+### Endpoints
 # Create the virtual environment
 python -m venv venv
 
