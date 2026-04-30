@@ -36,7 +36,7 @@ An implementation of the **Reflection Design Pattern** for Agentic AI. This proj
     
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Backend:** FastAPI  
 - **Language:** Python  
@@ -46,7 +46,7 @@ An implementation of the **Reflection Design Pattern** for Agentic AI. This proj
 
 ---
 
-## 📡 API Usage
+##  API Usage
 
 ### Endpoint
 # Create the virtual environment
