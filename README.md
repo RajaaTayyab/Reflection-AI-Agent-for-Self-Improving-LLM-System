@@ -55,7 +55,7 @@ python -m venv venv
 # Activate the environment (Windows PowerShell)
 .\venv\Scripts\Activate.ps1
 
-#install dependencies
+# install dependencies
 pip install -r requirements.txt
 
 # Groq Screenshots
